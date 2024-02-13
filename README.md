@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm an upcoming Front-end Developer, currently learning React.Seeking guidance and insights from experienced developers also assistance or mentorship would be greatly appreciated!
+#  About Me:
+I'm an upcoming Front-end Developer, currently learning React. Seeking guidance and insights from experienced developers also assistance or mentorship would be greatly appreciated!
 
 
 ## 🌐 Socials:
